@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at Delhi Technological University (and your friendly neighbourhood hack). I like to read, write, spend more hours than sustainable writing code and watch reruns of Bojack Horseman. (Do [email me]("mailto:anjalibhavan98@gmail.com") if you wish to share into the secret Bojack Horseman mini-fandom I’m a part of; it is every bit as unpretentious and sharp as the show itself is.)
+I am an undergraduate student at Delhi Technological University (and your friendly neighbourhood hack). I like to read, write, spend more hours than sustainable writing code and watch reruns of Bojack Horseman. (Do [email me](mailto:anjalibhavan98@gmail.com) if you wish to share into the secret Bojack Horseman mini-fandom I’m a part of; it is every bit as unpretentious and sharp as the show itself is.)
 
 My research interests include machine learning with a focus on ensemble learning methods - ensemble learning is the practice of combining multiple machine learning algorithms for (arguably) enhanced performance. I have worked on ensemble techniques for human activity recognition and emotion recognition from speech, and also written a technical report on the prevalent methods and applications of ensemble learning. Ensemble methods are highly popular among top-ranked performers on Kaggle due to their ability to raise the performance (usually accuracy in Kaggle’s context) of a single model manifold - but how much of this is sustainable keeping in mind the considerations of computational complexity forms an important aspect of ensemble learning research.
 
