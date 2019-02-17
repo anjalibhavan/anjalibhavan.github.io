@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Literary Publications"
-permalink: /litpubs/
+permalink: /literary-publications/
 ---
 
 {% include base_path %}
