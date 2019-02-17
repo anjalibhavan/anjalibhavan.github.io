@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+{% include base_path %}
 
-* [CV]("http://anjalibhavan.github.io/files/anjali_bhavan_cv.pdf")
-* [Resume]("http://anjalibhavan.github.io/files/Anjali_bhavan_resume.pdf")
+* [CV]("/files/anjali_bhavan_cv.pdf")
+* [Resume]("/files/Anjali_bhavan_resume.pdf")
