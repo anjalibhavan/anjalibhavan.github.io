@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Bhavan, Anjali, and Swati Aggarwal. ["Stacked Generalization with Wrapper-Based Feature Selection for Human Activity Recognition."]("https://ieeexplore.ieee.org/abstract/document/8628830") 2018 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2018.
+* "Bagged Support Vector Machines for Emotion Recognition from Speech": Under Review
+* ["Methods and Applications of Ensemble Learning: A Review"]({{ base_path }}/files/Ensemble.pdf): Technical Report  

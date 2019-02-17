@@ -8,5 +8,5 @@ author_profile: true
 
 {% include base_path %}
 
-* [CV]({{ base_path }}files/anjali_bhavan_cv.pdf)
-* [Resume]({{ base_path }}files/Anjali_bhavan_resume.pdf)
+* [CV]({{ base_path }}/files/anjali_bhavan_cv.pdf)
+* [Resume]({{ base_path }}/files/Anjali_bhavan_resume.pdf)
