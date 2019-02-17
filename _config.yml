@@ -80,34 +80,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Anjali Bhavan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Student, Writer and Researcher"
+  location         : "New Delhi, India"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.co.in/citations?user=GUP8CwgAAAAJ&hl=en"
+  email            : "anjalibhavan98@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
+  quora            : "https://www.quora.com/profile/Anjali-827"
   facebook         :
-  foursquare       :
-  github           : "academicpages"
+  wordpress        : "https://alkalianjali.wordpress.com"
+  github           : "https://github.com/anjalibhavan"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/anjali-bhavan"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -178,9 +179,11 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+    """
   portfolio:
     output: true
     permalink: /:collection/:path/
+    """
   talks:
     output: true
     permalink: /:collection/:path/
@@ -224,6 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      '''
   # _portfolio
   - scope:
       path: ""
@@ -233,6 +237,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      '''
   # _talks
   - scope:
       path: ""
