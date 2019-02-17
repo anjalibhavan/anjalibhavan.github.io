@@ -43,6 +43,12 @@
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
+      {% if author.quora %}
+        <li><a href="{{ author.quora }}"><i class="fab fa-quora" aria-hidden="true"></i> Quora</a></li>
+      {% endif %}
+      {% if author.wordpress %}
+        <li><a href="{{ author.wordpress }}"><i class="fab fa-wordpress" aria-hidden="true"></i> Wordpress</a></li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
