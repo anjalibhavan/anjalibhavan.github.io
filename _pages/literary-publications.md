@@ -19,12 +19,13 @@ Poetry
 * [To a god I don’t believe in](https://amethystmagazine.org/2018/06/26/to-a-god-i-dont-believe-in-a-poem-by-anjali-bhavan/), Amethyst Review
 * [Three](https://www.soothswarmjournal.com/copy-of-issue-iv-template-5), Sooth Swarm Journal
 * [Silence](http://www.allegropoetry.org/p/blog-page.html), Allegro Poetry Review
-* [A house drowning in stale milk](http://coldnoon.com/a-house-drowning-in-stale-milk/), Coldnoon
+* [A house drowning in stale milk](http://coldnoon.com/a-house-drowning-in-stale-milk/), Coldnooncd 
 * [Father](https://esthesiamag.com/2017/07/12/father/), Esthesia Magazine
 
 Prose
 ======
 
+* The National's I am Easy to Find, Juxtaposed, Entropy Magazine (upcoming)
 * [Fuel](https://www.funicularmagazine.com/read/2018/10/24/fuel), Funicular Magazine
 * [Why slam poetry is so promising – and poisonous](http://www.thehindu.com/thread/arts-culture-society/why-slam-poetry-is-so-promising-and-poisonous/article23935151.ece), THread – the blog of The Hindu
 * [What Kaatru Veliyidai says about toxic relationships](https://cafedissensusblog.com/2018/05/31/film-what-kaatru-veliyidai-says-about-psychologically-toxic-relationships/), Cafe Dissensus Everyday
