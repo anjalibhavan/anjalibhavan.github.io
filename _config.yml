@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anjali Bhavan"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "Student, Writer and Researcher"
   location         : "New Delhi, India"
   employer         :
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "anjali-bhavan"
+  linkedin         : #"anjali-bhavan"
   orcid            : 
   pinterest        :
   soundcloud       :
