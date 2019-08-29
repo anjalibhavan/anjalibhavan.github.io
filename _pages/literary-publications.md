@@ -8,7 +8,9 @@ Poetry
 ======
 
 * Kuppai, Ultimate APM Anthology (print)  (upcoming)
-* A girl was touched, Moonchild Magazine (upcoming)
+* Three poems, Indian Literature by Sahitya Akademi (print) (upcoming)
+* [Ode to Plants](https://www.mookychick.co.uk/opinion/your-fiction/ode-to-plants-poem-by-anjali-bhavan.php), MookyChick
+* [A girl was touched](https://www.moonchildmag.net/anjalibhavan.html), Moonchild Magazine 
 * [Inanna walks through Delhi](https://www.ragqueenperiodical.com/single-post/2019/03/14/A-Poem-by-Anjali-Bhavan), Rag Queen Periodical
 * [Portrait of a Girl and her Films](https://tersejournal.com/2019/01/23/portrait-of-a-girl-and-her-films-by-anjali-bhavan/), TERSE. Journal
 * [To the one who forgets the exit door from my life](https://www.thealiporepost.com/blog/to-the-one-who-forgets-the-exit-door-from-my-life-by-anjali-bhavan), The Alipore Post
