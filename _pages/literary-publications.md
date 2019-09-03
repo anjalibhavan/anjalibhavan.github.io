@@ -26,7 +26,7 @@ Poetry
 
 Prose
 ======
-
+* [Book Review: Tales from the Tail End](https://openthemagazine.com/lounge/books/light-in-the-dark/), Open Magazine
 * [The National's I am Easy to Find, Juxtaposed](https://entropymag.org/the-nationals-i-am-easy-to-find-juxtaposed/), Entropy Magazine 
 * [Fuel](https://www.funicularmagazine.com/read/2018/10/24/fuel), Funicular Magazine
 * [Why slam poetry is so promising – and poisonous](http://www.thehindu.com/thread/arts-culture-society/why-slam-poetry-is-so-promising-and-poisonous/article23935151.ece), THread – the blog of The Hindu
