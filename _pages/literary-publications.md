@@ -26,6 +26,7 @@ Poetry
 
 Prose
 ======
+* [Delhi's ethos is imperiled amid national exercise of erasing history, constructing homogeneous identity](https://www.firstpost.com/india/delhis-ethos-is-imperiled-amid-national-exercise-of-erasing-history-constructing-homogeneous-identity-7327881.html), FirstPost
 * [Book Review: Tales from the Tail End](https://openthemagazine.com/lounge/books/light-in-the-dark/), Open Magazine
 * [The National's I am Easy to Find, Juxtaposed](https://entropymag.org/the-nationals-i-am-easy-to-find-juxtaposed/), Entropy Magazine 
 * [Fuel](https://www.funicularmagazine.com/read/2018/10/24/fuel), Funicular Magazine
