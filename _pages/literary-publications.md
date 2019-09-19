@@ -6,7 +6,7 @@ permalink: /literary-publications/
 
 Poetry
 ======
-
+* A Document of Water, The Bombay Literary Magazine (upcoming)
 * Kuppai, Ultimate APM Anthology (print)  (upcoming)
 * Three poems, Indian Literature by Sahitya Akademi (print) (upcoming)
 * [Ode to Plants](https://www.mookychick.co.uk/opinion/your-fiction/ode-to-plants-poem-by-anjali-bhavan.php), MookyChick
@@ -26,6 +26,7 @@ Poetry
 
 Prose
 ======
+* [So Tuca & Bertie Was Cancelled](https://www.cinemaexpress.com/stories/columns/2019/sep/17/so-tuca-and-bertie-was-cancelled-14342.html), The New Indian Express (online, print)
 * [Delhi's ethos is imperiled amid national exercise of erasing history, constructing homogeneous identity](https://www.firstpost.com/india/delhis-ethos-is-imperiled-amid-national-exercise-of-erasing-history-constructing-homogeneous-identity-7327881.html), FirstPost
 * [Book Review: Tales from the Tail End](https://openthemagazine.com/lounge/books/light-in-the-dark/), Open Magazine
 * [The National's I am Easy to Find, Juxtaposed](https://entropymag.org/the-nationals-i-am-easy-to-find-juxtaposed/), Entropy Magazine 
