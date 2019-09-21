@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "About Me - Anjali Bhavan"
 title_separator          : "-"
 name                     : &name "Anjali Bhavan"
 description              : &description "personal description"
@@ -95,7 +95,7 @@ author:
   flickr           :
   quora            : 
   facebook         :
-  wordpress        : 
+  wordpress        : #"https://alkalianjali.wordpress.com"
   github           : "anjalibhavan"
   google_plus      :
   keybase          :
