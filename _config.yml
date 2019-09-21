@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anjali Bhavan"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Anjali Bhavan"
 description              : &description "personal description"
