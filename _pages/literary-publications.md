@@ -6,6 +6,7 @@ permalink: /literary-publications/
 
 Poetry
 ======
+* Amma, Paati and TV, Barren Magazine (upcoming)
 * A Document of Water, The Bombay Literary Magazine (upcoming)
 * Kuppai, Ultimate APM Anthology (print)  (upcoming)
 * Three poems, Indian Literature by Sahitya Akademi (print) (upcoming)
