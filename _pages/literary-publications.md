@@ -7,9 +7,9 @@ permalink: /literary-publications/
 Poetry
 ======
 * Amma, Paati and TV, Barren Magazine (upcoming)
-* A Document of Water, The Bombay Literary Magazine (upcoming)
 * Kuppai, Ultimate APM Anthology (print)  (upcoming)
 * Three poems, Indian Literature by Sahitya Akademi (print) (upcoming)
+* [A Document of Water, The Bombay Literary Magazine](http://bombayliterarymagazine.com/?p=948)
 * [Ode to Plants](https://www.mookychick.co.uk/opinion/your-fiction/ode-to-plants-poem-by-anjali-bhavan.php), MookyChick
 * [A girl was touched](https://www.moonchildmag.net/anjalibhavan.html), Moonchild Magazine 
 * [Inanna walks through Delhi](https://www.ragqueenperiodical.com/single-post/2019/03/14/A-Poem-by-Anjali-Bhavan), Rag Queen Periodical
