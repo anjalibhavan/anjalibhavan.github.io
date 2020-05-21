@@ -49,7 +49,6 @@ Prose
 
 Poetry
 ======
-* 
 * Kuppai, Ultimate APM Anthology (print)  (upcoming)
 * Three poems, Indian Literature by Sahitya Akademi (print) (upcoming)
 * [A Document of Water](http://bombayliterarymagazine.com/?p=948), The Bombay Literary Magazine
