@@ -4,29 +4,11 @@ title: "Literary Publications"
 permalink: /literary-publications/
 ---
 
-Poetry
-======
-* Amma, Paati and TV, Barren Magazine (upcoming)
-* Kuppai, Ultimate APM Anthology (print)  (upcoming)
-* Three poems, Indian Literature by Sahitya Akademi (print) (upcoming)
-* [A Document of Water](http://bombayliterarymagazine.com/?p=948), The Bombay Literary Magazine
-* [Ode to Plants](https://www.mookychick.co.uk/opinion/your-fiction/ode-to-plants-poem-by-anjali-bhavan.php), MookyChick
-* [A girl was touched](https://www.moonchildmag.net/anjalibhavan.html), Moonchild Magazine 
-* [Inanna walks through Delhi](https://www.ragqueenperiodical.com/single-post/2019/03/14/A-Poem-by-Anjali-Bhavan), Rag Queen Periodical
-* [Portrait of a Girl and her Films](https://tersejournal.com/2019/01/23/portrait-of-a-girl-and-her-films-by-anjali-bhavan/), TERSE. Journal
-* [To the one who forgets the exit door from my life](https://www.thealiporepost.com/blog/to-the-one-who-forgets-the-exit-door-from-my-life-by-anjali-bhavan), The Alipore Post
-* [Self Portrait of a Traitor](https://vitabrevisliterature.com/poems/self-portrait-of-a-traitor-a-poem-by-anjali-bhavan/), Vita Brevis Magazine
-* [Discoveries](https://rosequartzmagazine.wixsite.com/magazine/blog-1/discoveries-by-anjali-bhavan), Rose Quartz Journal
-* [Tuesdays](http://www.quailbellmagazine.com/the-unreal/poem-tuesdays-by-anjali-bhavan), Quail Bell Magazine
-* [Inanna](https://porridgemagazine.com/2018/06/24/one-poem-anjali-bhavan/), Porridge Magazine
-* [To a god I don’t believe in](https://amethystmagazine.org/2018/06/26/to-a-god-i-dont-believe-in-a-poem-by-anjali-bhavan/), Amethyst Review
-* [Three](https://www.soothswarmjournal.com/copy-of-issue-iv-template-5), Sooth Swarm Journal
-* [Silence](http://www.allegropoetry.org/p/blog-page.html), Allegro Poetry Review
-* [A house drowning in stale milk](http://coldnoon.com/a-house-drowning-in-stale-milk/), Coldnoon Journal of Travel and Poetics 
-* [Father](https://esthesiamag.com/2017/07/12/father/), Esthesia Magazine
 
 Prose
 ======
+* [The Ending of Medici: The Magnificent, Explained](https://www.digitalspy.com/tv/a32609238/medici-the-magnificent-season-3-ending-explained-netflix/), Digital Spy
+* [Amma, Paati and TV](https://barrenmagazine.com/amma-paati-and-tv/), Barren Magazine
 * [So Tuca & Bertie Was Cancelled](https://www.cinemaexpress.com/stories/columns/2019/sep/17/so-tuca-and-bertie-was-cancelled-14342.html), The New Indian Express (online, print)
 * [Delhi's ethos is imperiled amid national exercise of erasing history, constructing homogeneous identity](https://www.firstpost.com/india/delhis-ethos-is-imperiled-amid-national-exercise-of-erasing-history-constructing-homogeneous-identity-7327881.html), FirstPost
 * [Book Review: Tales from the Tail End](https://openthemagazine.com/lounge/books/light-in-the-dark/), Open Magazine
@@ -64,3 +46,24 @@ Prose
 * A Whole New World, A Twist in the Tale, a short story anthology of the top 50 winners in iGenius Young Authors’ Hunt contest published by Max Life Insurance. (Print)
 * [Anjali Bhavan on The Speaking Tree](http://www.speakingtree.in/anjali-bhavan-2), The Speaking Tree, a weekend supplement of the Times of India published five blog posts of mine in the newspaper over the course of three years.
   
+
+Poetry
+======
+* 
+* Kuppai, Ultimate APM Anthology (print)  (upcoming)
+* Three poems, Indian Literature by Sahitya Akademi (print) (upcoming)
+* [A Document of Water](http://bombayliterarymagazine.com/?p=948), The Bombay Literary Magazine
+* [Ode to Plants](https://www.mookychick.co.uk/opinion/your-fiction/ode-to-plants-poem-by-anjali-bhavan.php), MookyChick
+* [A girl was touched](https://www.moonchildmag.net/anjalibhavan.html), Moonchild Magazine 
+* [Inanna walks through Delhi](https://www.ragqueenperiodical.com/single-post/2019/03/14/A-Poem-by-Anjali-Bhavan), Rag Queen Periodical
+* [Portrait of a Girl and her Films](https://tersejournal.com/2019/01/23/portrait-of-a-girl-and-her-films-by-anjali-bhavan/), TERSE. Journal
+* [To the one who forgets the exit door from my life](https://www.thealiporepost.com/blog/to-the-one-who-forgets-the-exit-door-from-my-life-by-anjali-bhavan), The Alipore Post
+* [Self Portrait of a Traitor](https://vitabrevisliterature.com/poems/self-portrait-of-a-traitor-a-poem-by-anjali-bhavan/), Vita Brevis Magazine
+* [Discoveries](https://rosequartzmagazine.wixsite.com/magazine/blog-1/discoveries-by-anjali-bhavan), Rose Quartz Journal
+* [Tuesdays](http://www.quailbellmagazine.com/the-unreal/poem-tuesdays-by-anjali-bhavan), Quail Bell Magazine
+* [Inanna](https://porridgemagazine.com/2018/06/24/one-poem-anjali-bhavan/), Porridge Magazine
+* [To a god I don’t believe in](https://amethystmagazine.org/2018/06/26/to-a-god-i-dont-believe-in-a-poem-by-anjali-bhavan/), Amethyst Review
+* [Three](https://www.soothswarmjournal.com/copy-of-issue-iv-template-5), Sooth Swarm Journal
+* [Silence](http://www.allegropoetry.org/p/blog-page.html), Allegro Poetry Review
+* [A house drowning in stale milk](http://coldnoon.com/a-house-drowning-in-stale-milk/), Coldnoon Journal of Travel and Poetics 
+* [Father](https://esthesiamag.com/2017/07/12/father/), Esthesia Magazine
