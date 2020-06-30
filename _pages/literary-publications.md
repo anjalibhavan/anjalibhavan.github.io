@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Literary Publications"
+title: "Writing"
 permalink: /literary-publications/
 ---
 
 
 Prose
 ======
+* [The Search on Netflix's true story – Here's what happened in the real-life case](https://www.digitalspy.com/tv/ustv/a32958100/the-search-paulette-gebara-farah/?utm_content=bufferee4ab&utm_medium=social&utm_source=twitter&utm_campaign=maintwitterpost)
 * [The Ending of Medici: The Magnificent, Explained](https://www.digitalspy.com/tv/a32609238/medici-the-magnificent-season-3-ending-explained-netflix/), Digital Spy
 * [Amma, Paati and TV](https://barrenmagazine.com/amma-paati-and-tv/), Barren Magazine
 * [So Tuca & Bertie Was Cancelled](https://www.cinemaexpress.com/stories/columns/2019/sep/17/so-tuca-and-bertie-was-cancelled-14342.html), The New Indian Express (online, print)
@@ -50,7 +51,7 @@ Prose
 Poetry
 ======
 * Kuppai, Ultimate APM Anthology (print)  (upcoming)
-* Three poems, Indian Literature by Sahitya Akademi (print) (upcoming)
+* Three poems, Indian Literature by Sahitya Akademi (print) 
 * [A Document of Water](http://bombayliterarymagazine.com/?p=948), The Bombay Literary Magazine
 * [Ode to Plants](https://www.mookychick.co.uk/opinion/your-fiction/ode-to-plants-poem-by-anjali-bhavan.php), MookyChick
 * [A girl was touched](https://www.moonchildmag.net/anjalibhavan.html), Moonchild Magazine 
