@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Writing"
-permalink: /literary-publications/
+permalink: /writing/
 ---
 
 
