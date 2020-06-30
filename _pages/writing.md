@@ -7,7 +7,7 @@ permalink: /writing/
 
 Prose
 ======
-* [The Search on Netflix's true story – Here's what happened in the real-life case](https://www.digitalspy.com/tv/ustv/a32958100/the-search-paulette-gebara-farah/?utm_content=bufferee4ab&utm_medium=social&utm_source=twitter&utm_campaign=maintwitterpost)
+* [The Search on Netflix's true story – Here's what happened in the real-life case](https://www.digitalspy.com/tv/ustv/a32958100/the-search-paulette-gebara-farah/?utm_content=bufferee4ab&utm_medium=social&utm_source=twitter&utm_campaign=maintwitterpost), Digital Spy
 * [The Ending of Medici: The Magnificent, Explained](https://www.digitalspy.com/tv/a32609238/medici-the-magnificent-season-3-ending-explained-netflix/), Digital Spy
 * [Amma, Paati and TV](https://barrenmagazine.com/amma-paati-and-tv/), Barren Magazine
 * [So Tuca & Bertie Was Cancelled](https://www.cinemaexpress.com/stories/columns/2019/sep/17/so-tuca-and-bertie-was-cancelled-14342.html), The New Indian Express (online, print)

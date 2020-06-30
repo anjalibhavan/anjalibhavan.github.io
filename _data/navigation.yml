@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Academic Publications"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Technical Projects"
+  - title: "Projects"
     url: /projects/       
     
   - title: "Writing"
     url: /writing/
        
-  - title: "CV/Resume"
+  - title: "CV"
     url: /cv/
     
   
