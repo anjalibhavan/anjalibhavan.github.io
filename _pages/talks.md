@@ -8,7 +8,7 @@ author_profile: true
 
 | Topic                                                                 | Event                                   | Month     | Slides/Video  |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :-------: 
-| Webinar: Grad School Applications  |  Women Who Code Delhi  |  September  |  [Video](https://www.facebook.com/watch/?v=435002264125909&extid=B3rzTPkfJUsbrEgA)  |
+| Grad School Applications  |  Women Who Code Delhi: ONLive Opportunity Talks  |  September  |  [Video](https://www.facebook.com/watch/?v=435002264125909&extid=B3rzTPkfJUsbrEgA)  |
 
 
 ## 2018
