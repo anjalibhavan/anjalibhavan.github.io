@@ -8,7 +8,8 @@ author_profile: true
 
 | Topic                                                                 | Event                                   | Month     | Slides/Video  |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :-------: 
-| Grad School Applications  |  Women Who Code Delhi: ONLive Opportunity Talks  |  September  |  [Video](https://www.facebook.com/watch/?v=435002264125909&extid=B3rzTPkfJUsbrEgA)  |
+| Getting Started with Vector Representations of Language  |  MLNerdie  |  September  |  Video  |
+| Grad School Applications  |  Women Who Code Delhi  |  September  |  [Video](https://www.facebook.com/watch/?v=435002264125909&extid=B3rzTPkfJUsbrEgA)  |
 
 
 ## 2018
