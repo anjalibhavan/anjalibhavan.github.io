@@ -7,8 +7,10 @@ permalink: /writing/
 
 Prose
 ======
-* [The Search on Netflix's true story – Here's what happened in the real-life case](https://www.digitalspy.com/tv/ustv/a32958100/the-search-paulette-gebara-farah/?utm_content=bufferee4ab&utm_medium=social&utm_source=twitter&utm_campaign=maintwitterpost), Digital Spy
-* [The Ending of Medici: The Magnificent, Explained](https://www.digitalspy.com/tv/a32609238/medici-the-magnificent-season-3-ending-explained-netflix/), Digital Spy
+* Digital Spy:
+  * [The best Indian TV shows on Netflix](https://www.digitalspy.com/tv/a33821033/best-indian-tv-netflix-shows/)
+  * [The Search on Netflix's true story – Here's what happened in the real-life case](https://www.digitalspy.com/tv/ustv/a32958100/the-search-paulette-gebara-farah/?utm_content=bufferee4ab&utm_medium=social&utm_source=twitter&utm_campaign=maintwitterpost), Digital Spy
+  * [The Ending of Medici: The Magnificent, Explained](https://www.digitalspy.com/tv/a32609238/medici-the-magnificent-season-3-ending-explained-netflix/), Digital Spy
 * [Amma, Paati and TV](https://barrenmagazine.com/amma-paati-and-tv/), Barren Magazine
 * [So Tuca & Bertie Was Cancelled](https://www.cinemaexpress.com/stories/columns/2019/sep/17/so-tuca-and-bertie-was-cancelled-14342.html), The New Indian Express (online, print)
 * [Delhi's ethos is imperiled amid national exercise of erasing history, constructing homogeneous identity](https://www.firstpost.com/india/delhis-ethos-is-imperiled-amid-national-exercise-of-erasing-history-constructing-homogeneous-identity-7327881.html), FirstPost
@@ -18,9 +20,10 @@ Prose
 * [Why slam poetry is so promising – and poisonous](http://www.thehindu.com/thread/arts-culture-society/why-slam-poetry-is-so-promising-and-poisonous/article23935151.ece), THread – the blog of The Hindu
 * [What Kaatru Veliyidai says about toxic relationships](https://cafedissensusblog.com/2018/05/31/film-what-kaatru-veliyidai-says-about-psychologically-toxic-relationships/), Cafe Dissensus Everyday
 * High on Films: I write here on various films. Here are some of my published articles.
+  * [On Normal People](https://www.highonfilms.com/normal-people-2020-hulu-review/)
+  * [On The Hungry Lion](http://www.highonfilms.com/the-hungry-lion/) 
   * [On Raazi](http://www.highonfilms.com/raazi-a-tribute-to-unknown-heroes/)
   * [On Sagara Sangamam](http://www.highonfilms.com/sagara-sangamam-1983-of-art-life-and-death/)
-  * [On The Hungry Lion](http://www.highonfilms.com/the-hungry-lion/)
 * I worked at DTU Times, the official newsletter of Delhi Technological University for a year (August 2016-17). Given below are the pieces published in that year.
   * Blog articles:
     * [A study of loneliness](https://dtutimes.wordpress.com/2016/10/12/a-study-of-loneliness/)
