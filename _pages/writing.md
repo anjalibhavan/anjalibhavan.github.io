@@ -9,15 +9,15 @@ Prose
 ======
 * Digital Spy:
   * [The best Indian TV shows on Netflix](https://www.digitalspy.com/tv/a33821033/best-indian-tv-netflix-shows/)
-  * [The Search on Netflix's true story – Here's what happened in the real-life case](https://www.digitalspy.com/tv/ustv/a32958100/the-search-paulette-gebara-farah/?utm_content=bufferee4ab&utm_medium=social&utm_source=twitter&utm_campaign=maintwitterpost), Digital Spy
-  * [The Ending of Medici: The Magnificent, Explained](https://www.digitalspy.com/tv/a32609238/medici-the-magnificent-season-3-ending-explained-netflix/), Digital Spy
+  * [The Search on Netflix's true story – Here's what happened in the real-life case](https://www.digitalspy.com/tv/ustv/a32958100/the-search-paulette-gebara-farah/?utm_content=bufferee4ab&utm_medium=social&utm_source=twitter&utm_campaign=maintwitterpost)
+  * [The Ending of Medici: The Magnificent, Explained](https://www.digitalspy.com/tv/a32609238/medici-the-magnificent-season-3-ending-explained-netflix/)
 * [Amma, Paati and TV](https://barrenmagazine.com/amma-paati-and-tv/), Barren Magazine
 * [So Tuca & Bertie Was Cancelled](https://www.cinemaexpress.com/stories/columns/2019/sep/17/so-tuca-and-bertie-was-cancelled-14342.html), The New Indian Express (online, print)
 * [Delhi's ethos is imperiled amid national exercise of erasing history, constructing homogeneous identity](https://www.firstpost.com/india/delhis-ethos-is-imperiled-amid-national-exercise-of-erasing-history-constructing-homogeneous-identity-7327881.html), FirstPost
 * [Book Review: Tales from the Tail End](https://openthemagazine.com/lounge/books/light-in-the-dark/), Open Magazine
 * [The National's I am Easy to Find, Juxtaposed](https://entropymag.org/the-nationals-i-am-easy-to-find-juxtaposed/), Entropy Magazine 
 * [Fuel](https://www.funicularmagazine.com/read/2018/10/24/fuel), Funicular Magazine
-* [Why slam poetry is so promising – and poisonous](http://www.thehindu.com/thread/arts-culture-society/why-slam-poetry-is-so-promising-and-poisonous/article23935151.ece), THread – the blog of The Hindu
+* [Why slam poetry is so promising – and poisonous](http://www.thehindu.com/thread/arts-culture-society/why-slam-poetry-is-so-promising-and-poisonous/article23935151.ece), THread by The Hindu
 * [What Kaatru Veliyidai says about toxic relationships](https://cafedissensusblog.com/2018/05/31/film-what-kaatru-veliyidai-says-about-psychologically-toxic-relationships/), Cafe Dissensus Everyday
 * High on Films: I write here on various films. Here are some of my published articles.
   * [On Normal People](https://www.highonfilms.com/normal-people-2020-hulu-review/)
