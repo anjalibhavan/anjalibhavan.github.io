@@ -53,7 +53,7 @@ Prose
 
 Poetry
 ======
-* Kuppai, Ultimate APM Anthology (print)  (upcoming)
+* Kuppai, Ultimate APM Anthology (print)
 * Three poems, Indian Literature by Sahitya Akademi (print) 
 * [A Document of Water](http://bombayliterarymagazine.com/?p=948), The Bombay Literary Magazine
 * [Ode to Plants](https://www.mookychick.co.uk/opinion/your-fiction/ode-to-plants-poem-by-anjali-bhavan.php), MookyChick
