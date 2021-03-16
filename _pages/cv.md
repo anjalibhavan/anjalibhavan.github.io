@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 
 ---
 
 {% include base_path %}
 
-* [CV]({{ base_path }}/files/Anjali_bhavan_resume.pdf)
+* [Resume]({{ base_path }}/files/Anjali_bhavan_resume.pdf)
