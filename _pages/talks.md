@@ -4,11 +4,17 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+## 2021
+
+| Topic                                                                 | Event                                   | Month     | Slides/Video  |
+| :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :-------: 
+| Ethical Considerations While Building AI Systems  |  PyFlames  |  May  |  [Slides](https://slides.com/anjalibhavan/ethical-considerations-in-ai-systems/)  |
+
 ## 2020
 
 | Topic                                                                 | Event                                   | Month     | Slides/Video  |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :-------: 
-| Getting Started with Vector Representations of Language  |  MLNerdie  |  September  |  Video  |
+| Getting Started with Vector Representations of Language  |  MLNerdie  |  September  |  [Video](https://www.youtube.com/watch?v=ZeLiVM2l7Bs)  |
 | Grad School Applications  |  Women Who Code Delhi  |  September  |  [Video](https://www.facebook.com/watch/?v=435002264125909&extid=B3rzTPkfJUsbrEgA)  |
 
 
