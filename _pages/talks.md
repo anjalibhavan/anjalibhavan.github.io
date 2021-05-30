@@ -8,6 +8,7 @@ author_profile: true
 
 | Topic                                                                 | Event                                   | Month     | Slides/Video  |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :-------: 
+| Introduction to NLP  |  WiMLDS  |  May  |  [Slides](https://slides.com/anjalibhavan/an-introduction-to-nlp/)  |
 | Ethical Considerations While Building AI Systems  |  PyFlames  |  May  |  [Slides](https://slides.com/anjalibhavan/ethical-considerations-in-ai-systems/)  |
 
 ## 2020
