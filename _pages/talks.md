@@ -8,7 +8,9 @@ author_profile: true
 
 | Topic                                                                 | Event                                   | Month     | Slides/Video  |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :-------: 
-| Introduction to NLP  |  WiMLDS  |  May  |  [Slides](https://slides.com/anjalibhavan/an-introduction-to-nlp/)  |
+| Introduction to Task-Oriented Dialog Systems  |  Women Who Code Delhi  |  June  |  [Slides](https://slides.com/anjalibhavan/introduction-to-task-oriented-dialog-systems)  |
+| Significance Testing in NLP  |  Kaggle Days Meetup Delhi-NCR  |  June  |  [Slides](https://slides.com/anjalibhavan/significance-testing-in-nlp)  |
+| Introduction to NLP  |  WiMLDS  |  May  |  [Slides](https://slides.com/anjalibhavan/an-introduction-to-nlp/ )  |
 | Ethical Considerations While Building AI Systems  |  PyFlames  |  May  |  [Slides](https://slides.com/anjalibhavan/ethical-considerations-in-ai-systems/)  |
 
 ## 2020
